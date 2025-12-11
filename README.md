@@ -9,7 +9,7 @@ git commit -m "first commit"  # 3. 提交
 git branch -M main            # 4. 改名分支
 git remote add origin <URL>   # 5. 連線 (只有第一次需要)
 git push -u origin main       # 6. 上傳
-您現在可以試著建立一個全新的資料夾，從頭跑一次這個流程看看嗎？這樣印象會最深刻！
+您現在可以試著建立一個全新的資料夾
 ====================================================
 更新 GitHub 的標準三步驟
 請在 VSCode 終端機依序輸入以下指令：
